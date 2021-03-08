@@ -1,0 +1,15 @@
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\obj\Release\Interop.WMPLib.dll
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\obj\Release\AxInterop.WMPLib.dll
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\obj\Release\MyMediaPlayer.vbproj.ResolveComReference.cache
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\bin\Release\MyMediaPlayer.exe
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\bin\Release\MyMediaPlayer.pdb
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\bin\Release\MyMediaPlayer.xml
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\bin\Release\Interop.WMPLib.dll
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\bin\Release\AxInterop.WMPLib.dll
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\obj\Release\MyMediaPlayer.CheckForm.resources
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\obj\Release\MyMediaPlayer.Form1.resources
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\obj\Release\MyMediaPlayer.Resources.resources
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\obj\Release\MyMediaPlayer.vbproj.GenerateResource.Cache
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\obj\Release\MyMediaPlayer.exe
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\obj\Release\MyMediaPlayer.xml
+D:\Новая жизнь\Новое\Хаос\Проекты\MyMediaPlayer\MyMediaPlayer\obj\Release\MyMediaPlayer.pdb
